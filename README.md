@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/dioic3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioic3&show_icons=false&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dioic3&show_icons=false&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioic3&layout=compact&langs_count=7&theme=cobalt"/>
   <img align="right" alt="dioice-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/876949125671833654/917259430150688828/GIF-211206_004112.gif">
   <img align="right" alt="dioice-pic2" height="150" style="border-radius:50px;"src="https://media.discordapp.net/attachments/876949125671833654/917261719724752946/download20211201005023.png">
