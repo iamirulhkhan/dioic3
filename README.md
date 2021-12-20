@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho na monitoria de Pós-Graduação da Faculdade, na parte de transmissão ao vivo na plataforma Microsoft Teams e edição de vídeo.
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no email: joyce.dias@gec.inatel.br
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: O apelido dioice foi dado pela minha amiga, e uso para representar a minha identidade como pessoa porque eu acredito que marco as pessoas de várias formas.
   
