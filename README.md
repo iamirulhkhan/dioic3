@@ -1,6 +1,6 @@
 ### Olá, eu sou a Joyce da Costa
 
-- 🔭 Hoje trabalho na monitoria de Pós-Graduação da Faculdade, na parte de transmissão ao vivo na plataforma Microsoft Teams e edição de vídeo.
+- 🔭 Atualmente sou Quality Assurance na 4intelligence.
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: O apelido dioice foi dado pela minha amiga, e uso para representar a minha identidade como pessoa porque eu acredito que marco as pessoas de várias formas.
