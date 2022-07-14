@@ -5,10 +5,12 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: O apelido dioice foi dado pela minha amiga, e uso para representar a minha identidade como pessoa porque eu acredito que marco as pessoas de várias formas.
   
-<div align="center">
+<div>
+<p align="center">
   <a href="https://github.com/dioic3">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dioic3&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioic3&layout=compact&langs_count=7&theme=cobalt"/>
+</p>
 </div>
   
   ##
