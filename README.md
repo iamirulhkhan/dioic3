@@ -56,5 +56,3 @@ const JoyceDaCosta = {
 </div>
 
 ![Snake animation](https://github.com/dioic3/dioic3/blob/output/github-contribution-grid-snake.svg)
-
-<br>
