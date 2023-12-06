@@ -6,6 +6,7 @@ const JoyceDaCosta = {
     nickName: 'Dioice',
     code: ['Javascript'],
     secondLanguage: 'English',
+    thirdLanguage: 'French',
     askMeAbout: ['Software Test', 'Test', 'Doramas', 'Study','Coffee','Inatel'],
     message: "Graduanda em Engenharia de Computação e uma pequena aprendiz na área de Qualidade de Software como Quality Assurance Intern na 4intelligence."
     outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
@@ -46,13 +47,3 @@ const JoyceDaCosta = {
 </div>
 
 <br>
-
-<div>
-<p align="center">
-  <a href="https://github.com/dioic3">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dioic3&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioic3&layout=compact&langs_count=7&theme=cobalt"/>
-</p>
-</div>
-
-![Snake animation](https://github.com/dioic3/dioic3/blob/output/github-contribution-grid-snake.svg)
