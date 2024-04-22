@@ -12,7 +12,8 @@ const JoyceDaCosta = {
     outhers: ['git', 'npm', 'test case', 'bdd', 'gherkin', 'cucumber'],
     technologies: {
         frontEndTest: {
-            web: ['Cypress']
+            web: ['Cypress'],
+            mobile: ['Maestro'],
         backEnd: {
             js: ['node.js'],
             api: ['Postman','Cypress']
