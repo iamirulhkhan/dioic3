@@ -30,13 +30,13 @@ const JoyceDaCosta = {
 <br>
 
 ### Teste Prático do meu primeiro estágio:
-- Repositório: [https://github.com/dioic3/Reposit-rio_teste_4i](#)
+- Repositório: [https://github.com/dioic3/Reposit-rio_teste_4i](https://github.com/dioic3/Reposit-rio_teste_4i)
 ### Portfolio de Análise: 
-- Repositório: [https://github.com/dioic3/portfolio-analise](#)
+- Repositório: [https://github.com/dioic3/portfolio-analise](https://github.com/dioic3/portfolio-analise)
 ### Projeto de Engenharia de Software - Laboratório: 
-- Repositório: [https://github.com/dioic3/potential-c214-adventure](#)
+- Repositório: [https://github.com/dioic3/potential-c214-adventure](https://github.com/dioic3/potential-c214-adventure)
 ### Projeto de C115: 
-- Repositório: [https://github.com/dioic3/stunning-happiness](#)
+- Repositório: [https://github.com/dioic3/stunning-happiness](https://github.com/dioic3/stunning-happiness)
 
 # **Social Media**
 <div> 
