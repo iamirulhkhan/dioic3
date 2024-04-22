@@ -26,18 +26,17 @@ const JoyceDaCosta = {
 };
 ```
   
-# **Skills**
+# **Principais Projetos:**
 <br>
 
-### Frameworks 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-
-### Languages 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() 
-
-### IDES
-[![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
-[![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]() 
+### Teste Prático do meu primeiro estágio:
+- Repositório: [https://github.com/dioic3/Reposit-rio_teste_4i](#)
+### Portfolio de Análise: 
+- Repositório: [https://github.com/dioic3/portfolio-analise](#)
+### Projeto de Engenharia de Software - Laboratório: 
+- Repositório: [https://github.com/dioic3/potential-c214-adventure](#)
+### Projeto de C115: 
+- Repositório: [https://github.com/dioic3/stunning-happiness](#)
 
 # **Social Media**
 <div> 
