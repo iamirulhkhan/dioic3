@@ -38,6 +38,8 @@ const JoyceDaCosta = {
 - Repositório: [https://github.com/dioic3/potential-c214-adventure](https://github.com/dioic3/potential-c214-adventure)
 ### Projeto de C115: 
 - Repositório: [https://github.com/dioic3/stunning-happiness](https://github.com/dioic3/stunning-happiness)
+### Projeto de Engenharia de Produto de Software - Quality Assurance:
+- Repositório: [https://github.com/S204-Inatel-2023-2/cqc_test](https://github.com/S204-Inatel-2023-2/cqc_test)
 
 # **Social Media**
 <div> 
