@@ -1,7 +1,8 @@
 ### aboutMe.js
 
 ```javascript
-const JoyceDaCosta = {
+### I Believe you should use let just because you would be able to upgrade yourself, const won't allow you to upgrade yourself .. 😍
+let JoyceDaCosta = {
     pronouns: 'she',
     nickName: 'Dioice',
     code: ['Javascript'],
